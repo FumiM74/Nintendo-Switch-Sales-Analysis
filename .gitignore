@@ -1,6 +1,28 @@
 venv/
 __pycache__/
-*.pyc
+project_N_env/
+*.py[cod]
+*$py.class
 .DS_Store
+Thumbs.db
 .ipynb_checkpoints/
 .env
+.env.*
+venv/
+.venv/
+env/
+secrets.json
+.vscode/
+*.log
+*.out
+*.tmp
+*.bak
+*.swp
+*.swo
+ir_data_files/
+irdata/
+imgs/
+# analize_wii.ipynb
+# analize_switch_first.ipynb
+# merge_sales_volumes.ipynb
+archive/

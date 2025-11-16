@@ -6,11 +6,8 @@ project_N_env/
 .DS_Store
 Thumbs.db
 .ipynb_checkpoints/
-.env
-.env.*
-venv/
-.venv/
-env/
+.env*
+venv*/
 secrets.json
 .vscode/
 *.log
@@ -22,7 +19,5 @@ secrets.json
 ir_data_files/
 irdata/
 imgs/
-# analize_wii.ipynb
-# analize_switch_first.ipynb
-# merge_sales_volumes.ipynb
-archive/
+misc/
+data/
